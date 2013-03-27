@@ -1,0 +1,29 @@
+obj/local/armeabi/objs-debug/cocos2dx_static/platform/android/jni/JniHelper.o: \
+ /opt/sdks/cocos2d/Snake/proj.android/../../cocos2dx/platform/android/jni/JniHelper.cpp \
+ /opt/sdks/cocos2d/Snake/proj.android/../../cocos2dx/platform/android/jni/JniHelper.h \
+ /opt/sdk/android-ndk/platforms/android-14/arch-arm/usr/include/jni.h \
+ /opt/sdk/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/string \
+ /opt/sdks/cocos2d/Snake/proj.android/../../cocos2dx/platform/CCPlatformMacros.h \
+ /opt/sdks/cocos2d/Snake/proj.android/../../cocos2dx/include/ccConfig.h \
+ /opt/sdks/cocos2d/Snake/proj.android/../../cocos2dx/platform/CCPlatformConfig.h \
+ /opt/sdks/cocos2d/Snake/proj.android/../../cocos2dx/platform/CCPlatformConfig.h \
+ /opt/sdks/cocos2d/Snake/proj.android/../../cocos2dx/platform/android/CCPlatformDefine.h \
+ /opt/sdk/android-ndk/platforms/android-14/arch-arm/usr/include/android/log.h
+
+/opt/sdks/cocos2d/Snake/proj.android/../../cocos2dx/platform/android/jni/JniHelper.h:
+
+/opt/sdk/android-ndk/platforms/android-14/arch-arm/usr/include/jni.h:
+
+/opt/sdk/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/string:
+
+/opt/sdks/cocos2d/Snake/proj.android/../../cocos2dx/platform/CCPlatformMacros.h:
+
+/opt/sdks/cocos2d/Snake/proj.android/../../cocos2dx/include/ccConfig.h:
+
+/opt/sdks/cocos2d/Snake/proj.android/../../cocos2dx/platform/CCPlatformConfig.h:
+
+/opt/sdks/cocos2d/Snake/proj.android/../../cocos2dx/platform/CCPlatformConfig.h:
+
+/opt/sdks/cocos2d/Snake/proj.android/../../cocos2dx/platform/android/CCPlatformDefine.h:
+
+/opt/sdk/android-ndk/platforms/android-14/arch-arm/usr/include/android/log.h:
